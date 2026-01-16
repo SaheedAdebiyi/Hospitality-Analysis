@@ -1,4 +1,4 @@
-# Hospitality Data Analysis USING SQL
+# Hospitality Performance Analysis USING SQL
 
 A SQL-based data analysis project focused on uncovering insights from hospitality reservation data, including pricing trends, booking behavior, occupancy, cancellations, and revenue performance across multiple properties.
 
