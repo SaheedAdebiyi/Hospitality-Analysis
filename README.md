@@ -1,4 +1,4 @@
-# Hospitality Data Analysis (SQL)
+# Hospitality Data Analysis USING SQL
 
 A SQL-based data analysis project focused on uncovering insights from hospitality reservation data, including pricing trends, booking behavior, occupancy, cancellations, and revenue performance across multiple properties.
 
@@ -101,11 +101,11 @@ By leveraging SQL for structured data analysis, this project converts raw hospit
 
 ## Contact
 
-**Adebiyi Saheed Olayinka 
+Saheed Olayinka Adebiyi
 
 Email: olayinkaadebiyi49@gmail.com 
 
-LinkedIn: www.linkedin.com/in/olayinkaadebiyi**
+LinkedIn: www.linkedin.com/in/olayinkaadebiyi
 
 ---
 
